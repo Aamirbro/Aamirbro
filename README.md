@@ -56,6 +56,9 @@ I mostly work with Python, Devops tools and Cloud based technologies. 🚀
     <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
   </a>
+    <a href="" target="_blank" >
+    <img src="./downloads/DALL·E 2025-01-15 14.48.56 - A visually appealing banner showcasing the logos of Docker, Ansible, Jenkins, and Kubernetes in a clean, modern, and professional design. The backgrou.webp"  height="75" />
+  </a>
   
 </p>
 
