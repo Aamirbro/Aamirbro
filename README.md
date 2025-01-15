@@ -4,9 +4,9 @@
 **LondheShubham153/LondheShubham153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Shubham](https://www.linkedin.com/in/shubhamlondhe1996/), a Senior Staff Engineer (Development, DevOps, Platform Engineering) from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 8+ years of professional onsite as well as remote working experience. 🎯
+I am [Aamir khan](https://www.linkedin.com/in/aamir-khan-0bb73a2a7/), Cloud Computing with Devops Engineer (Development, DevOps, Platform Engineering) &nbsp; passionate about developing production-ready applications with 1 years of live skill projects as well as remote working experience. 🎯
 
-I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
+I mostly work with Python, Devops tools and Cloud based technologies. 🚀
 
 
 <p float="left">
@@ -64,7 +64,6 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
 ### 📫 Connect with me in Social Media?
 
- - Visit my [Website](https://www.trainwithshubham.com) 🌐
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/aamir-khan-0bb73a2a7/) 👨🏻‍💻
  - Follow me on [Instagram](https://www.instagram.com/khansaab__.saab/) ✨
- - Connect with [Email](mailto: aamirkhan06937@gmail.com) 💌
+ - Send to [Email](mailto: aamirkhan06937@gmail.com) 💌
