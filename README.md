@@ -66,5 +66,5 @@ I mostly work with Python, Devops tools and Cloud based technologies. 🚀
 ### 📫 Connect with me in Social Media?
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/aamir-khan-0bb73a2a7/) 👨🏻‍💻
- - Follow me on [Instagram](https://www.instagram.com/khansaab__.saab/) ✨
+ - Follow me on [Instagram](https://www.instagram.com/khansaab__.saab/)   User: khansaab__.aamir✨
  - Send to [Email](mailto: aamirkhan06937@gmail.com) 💌
